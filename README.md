@@ -1,2 +1,2 @@
 # m036
-DNS Whitelist
+Testing DNS Whitelist / Blocklist Github functionality.
